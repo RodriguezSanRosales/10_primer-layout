@@ -1,0 +1,72 @@
+/*css index*/
+.menu li {
+	display: inline-block;
+    margin: 0px 35px 0px 35px;
+    padding: 25px;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+a {
+	text-decoration: none;
+}
+
+.logo{
+	
+	margin:15px 100px;
+}	
+
+.imgGrupal {
+	margin-top: 15px;
+}
+
+
+/*FOTOS*/
+.lineaFoto {
+	margin: 0 0 0 100px;
+	
+}	
+
+.lineaFoto div {
+	position: relative;
+	float: left;
+	margin: 15px;
+}
+
+/*texto blanco dentro de las FOTOS*/
+.texto {
+	color: #FFFFFF;
+	position: absolute;
+	top: 170px;
+	left: 90px;
+	
+}
+
+.lineaPeq {
+
+	width: 150px;
+	color: #000000;
+	align: center;
+    margin: 10px 0px 10px 400px;
+}
+
+.lineaGruesa {
+
+	align: left;
+	width: 100px;
+	border-size: 15px;
+	color: black;
+	padding: 5px 0 5px 0;
+	
+}
+
+.parrafo {
+
+	font-size: 30px;
+	margin: 25px 100px;
+
+}
+
+
+

@@ -1,0 +1,71 @@
+/*css coder-detail*/
+
+.imagAlum img {
+	align: center;
+	border-radius: 300px;
+	margin: 15px 0 15px 350px;  
+
+}
+
+
+h1 {
+   margin: 15px;
+
+}
+
+h2 {
+  margin: 15px 0 15px 0; 
+}
+
+
+h3 {
+  margin: 15px 0 15px 0; 
+}
+
+p {
+
+	font-size: 20px;
+}
+
+/*barras grises*/
+.barras div {
+
+	background-color: gray;
+	height: 30px;
+	margin: 5px;
+}
+
+.htm {
+
+	width: 700px;
+
+}
+
+.css {
+
+	width: 500px;
+
+}
+
+.javascript {
+    
+	width: 300px;
+}
+
+span {
+
+	color: #FFFFFF;
+}
+
+
+.portafolio img{
+
+	width: 250px;
+    margin: 25px;
+    
+}
+
+
+
+    
+    
